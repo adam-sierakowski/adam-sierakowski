@@ -1,6 +1,6 @@
 ### `Hello world 🤖`
 
-My name is Adam and I am a Computational Linguist. I like to play around with data and do rule-based stuff. Interested in NLP, aspiring to get into AI and ML.
+My name is Adam and I am a Computational Linguist. I like to play around with data and do rule-based stuff. Interested in NLP, AI and ML.
 
   Main technology: Python.  
   Main languages: Polish, English, Spanish.
