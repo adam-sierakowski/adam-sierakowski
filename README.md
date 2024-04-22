@@ -1,6 +1,6 @@
 ### `Hello world 🤖`
 
-My name is Adam and I am a Computational Linguist. I like to play around with data and do rule-based stuff. Interested in NLP, AI and ML.
+My name is Adam and I am a Computational Linguist. I like to play around with data and do rule-based stuff. Interested in NLP. Experienced with curating language data for ML projects.
 
   Main technology: Python.  
   Main languages: Polish, English, Spanish.
@@ -9,4 +9,4 @@ My name is Adam and I am a Computational Linguist. I like to play around with da
 
 ---
 
-> *Forgetting used to be a failing \[...\]. Now it takes effort. It may be as important as remembering* 🧘🏻 James Gleick
+> *When information is cheap, attention becomes expensive* 🧘🏻 James Gleick
