@@ -9,4 +9,4 @@ My name is Adam and I am a Computational Linguist. I like to play around with da
 
 ---
 
-> *Forgetting used to be a failing. Now it takes effort. It may be as important as remembering*  🧘🏻
+> *Forgetting used to be a failing \[...\]. Now it takes effort. It may be as important as remembering* 🧘🏻 James Gleick
