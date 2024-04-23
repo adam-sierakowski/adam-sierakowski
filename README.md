@@ -5,7 +5,7 @@ My name is Adam and I am a Computational Linguist. I like to play around with da
   Main technology: Python.  
   Main languages: Polish, English, Spanish.
 
-☎️ Contact me through my [LinkedIn](https://www.linkedin.com/in/a-sierakowski/) ☎️
+☎️ Contact me through my [LinkedIn](https://www.linkedin.com/in/a-sierakowski/) or [email](r89xigkk@anonaddy.me) ☎️
 
 ---
 
